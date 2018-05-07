@@ -1,0 +1,1 @@
+<html><head>przykladowy kod html do interpretacji</head><body>Autorem tekstu jest  <b>Stefan</b> a jego <i>prawa autorskie</i> sa chronione. <a href=www.stefan.pl>Kliknij</a> po wiecej informacji!</body></html>
